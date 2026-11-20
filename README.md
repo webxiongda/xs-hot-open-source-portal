@@ -10,6 +10,10 @@
 
 ## 在线预览
 
+在线地址：https://webxiongda.github.io/xs-hot-open-source-portal/
+
+本地运行：
+
 ```bash
 npm install
 npm run dev
